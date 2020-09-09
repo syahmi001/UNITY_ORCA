@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 4426e9ad0d7ca5b42b35cad575c24684
+timeCreated: 1592899824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rp_nathan_animated_003_walking_ball_l
+    100004: rp_nathan_animated_003_walking_ball_r
+    100006: rp_nathan_animated_003_walking_CTRL
+    100008: rp_nathan_animated_003_walking_eye_end_l
+    100010: rp_nathan_animated_003_walking_eye_end_r
+    100012: rp_nathan_animated_003_walking_eye_l
+    100014: rp_nathan_animated_003_walking_eye_r
+    100016: rp_nathan_animated_003_walking_eyebrow_l
+    100018: rp_nathan_animated_003_walking_eyebrow_r
+    100020: rp_nathan_animated_003_walking_eyelid_end_l
+    100022: rp_nathan_animated_003_walking_eyelid_end_r
+    100024: rp_nathan_animated_003_walking_eyelid_l
+    100026: rp_nathan_animated_003_walking_eyelid_r
+    100028: rp_nathan_animated_003_walking_foot_end_l
+    100030: rp_nathan_animated_003_walking_foot_end_r
+    100032: rp_nathan_animated_003_walking_foot_l
+    100034: rp_nathan_animated_003_walking_foot_r
+    100036: rp_nathan_animated_003_walking_geo
+    100038: rp_nathan_animated_003_walking_geoGRP
+    100040: rp_nathan_animated_003_walking_hand_l
+    100042: rp_nathan_animated_003_walking_hand_r
+    100044: rp_nathan_animated_003_walking_head
+    100046: rp_nathan_animated_003_walking_head_end
+    100048: rp_nathan_animated_003_walking_hip
+    100050: rp_nathan_animated_003_walking_index_01_l
+    100052: rp_nathan_animated_003_walking_index_01_r
+    100054: rp_nathan_animated_003_walking_index_02_l
+    100056: rp_nathan_animated_003_walking_index_02_r
+    100058: rp_nathan_animated_003_walking_index_03_l
+    100060: rp_nathan_animated_003_walking_index_03_r
+    100062: rp_nathan_animated_003_walking_index_end_l
+    100064: rp_nathan_animated_003_walking_index_end_r
+    100066: rp_nathan_animated_003_walking_jaw
+    100068: rp_nathan_animated_003_walking_jaw_end
+    100070: rp_nathan_animated_003_walking_lowerarm_l
+    100072: rp_nathan_animated_003_walking_lowerarm_r
+    100074: rp_nathan_animated_003_walking_lowerarm_twist_l
+    100076: rp_nathan_animated_003_walking_lowerarm_twist_r
+    100078: rp_nathan_animated_003_walking_lowerleg_l
+    100080: rp_nathan_animated_003_walking_lowerleg_r
+    100082: rp_nathan_animated_003_walking_lowerleg_twist_l
+    100084: rp_nathan_animated_003_walking_lowerleg_twist_r
+    100086: rp_nathan_animated_003_walking_middle_01_l
+    100088: rp_nathan_animated_003_walking_middle_01_r
+    100090: rp_nathan_animated_003_walking_middle_02_l
+    100092: rp_nathan_animated_003_walking_middle_02_r
+    100094: rp_nathan_animated_003_walking_middle_03_l
+    100096: rp_nathan_animated_003_walking_middle_03_r
+    100098: rp_nathan_animated_003_walking_middle_end_l
+    100100: rp_nathan_animated_003_walking_middle_end_r
+    100102: rp_nathan_animated_003_walking_mouth_l
+    100104: rp_nathan_animated_003_walking_mouth_r
+    100106: rp_nathan_animated_003_walking_neck
+    100108: rp_nathan_animated_003_walking_pinky_01_l
+    100110: rp_nathan_animated_003_walking_pinky_01_r
+    100112: rp_nathan_animated_003_walking_pinky_02_l
+    100114: rp_nathan_animated_003_walking_pinky_02_r
+    100116: rp_nathan_animated_003_walking_pinky_03_l
+    100118: rp_nathan_animated_003_walking_pinky_03_r
+    100120: rp_nathan_animated_003_walking_pinky_end_l
+    100122: rp_nathan_animated_003_walking_pinky_end_r
+    100124: rp_nathan_animated_003_walking_ring_01_l
+    100126: rp_nathan_animated_003_walking_ring_01_r
+    100128: rp_nathan_animated_003_walking_ring_02_l
+    100130: rp_nathan_animated_003_walking_ring_02_r
+    100132: rp_nathan_animated_003_walking_ring_03_l
+    100134: rp_nathan_animated_003_walking_ring_03_r
+    100136: rp_nathan_animated_003_walking_ring_end_l
+    100138: rp_nathan_animated_003_walking_ring_end_r
+    100140: rp_nathan_animated_003_walking_root
+    100142: rp_nathan_animated_003_walking_shoulder_l
+    100144: rp_nathan_animated_003_walking_shoulder_r
+    100146: rp_nathan_animated_003_walking_spine_01
+    100148: rp_nathan_animated_003_walking_spine_02
+    100150: rp_nathan_animated_003_walking_spine_03
+    100152: rp_nathan_animated_003_walking_thumb_01_l
+    100154: rp_nathan_animated_003_walking_thumb_01_r
+    100156: rp_nathan_animated_003_walking_thumb_02_l
+    100158: rp_nathan_animated_003_walking_thumb_02_r
+    100160: rp_nathan_animated_003_walking_thumb_03_l
+    100162: rp_nathan_animated_003_walking_thumb_03_r
+    100164: rp_nathan_animated_003_walking_thumb_end_l
+    100166: rp_nathan_animated_003_walking_thumb_end_r
+    100168: rp_nathan_animated_003_walking_upperarm_l
+    100170: rp_nathan_animated_003_walking_upperarm_r
+    100172: rp_nathan_animated_003_walking_upperarm_twist_l
+    100174: rp_nathan_animated_003_walking_upperarm_twist_r
+    100176: rp_nathan_animated_003_walking_upperleg_l
+    100178: rp_nathan_animated_003_walking_upperleg_r
+    100180: rp_nathan_animated_003_walking_upperleg_twist_l
+    100182: rp_nathan_animated_003_walking_upperleg_twist_r
+    400000: //RootNode
+    400002: rp_nathan_animated_003_walking_ball_l
+    400004: rp_nathan_animated_003_walking_ball_r
+    400006: rp_nathan_animated_003_walking_CTRL
+    400008: rp_nathan_animated_003_walking_eye_end_l
+    400010: rp_nathan_animated_003_walking_eye_end_r
+    400012: rp_nathan_animated_003_walking_eye_l
+    400014: rp_nathan_animated_003_walking_eye_r
+    400016: rp_nathan_animated_003_walking_eyebrow_l
+    400018: rp_nathan_animated_003_walking_eyebrow_r
+    400020: rp_nathan_animated_003_walking_eyelid_end_l
+    400022: rp_nathan_animated_003_walking_eyelid_end_r
+    400024: rp_nathan_animated_003_walking_eyelid_l
+    400026: rp_nathan_animated_003_walking_eyelid_r
+    400028: rp_nathan_animated_003_walking_foot_end_l
+    400030: rp_nathan_animated_003_walking_foot_end_r
+    400032: rp_nathan_animated_003_walking_foot_l
+    400034: rp_nathan_animated_003_walking_foot_r
+    400036: rp_nathan_animated_003_walking_geo
+    400038: rp_nathan_animated_003_walking_geoGRP
+    400040: rp_nathan_animated_003_walking_hand_l
+    400042: rp_nathan_animated_003_walking_hand_r
+    400044: rp_nathan_animated_003_walking_head
+    400046: rp_nathan_animated_003_walking_head_end
+    400048: rp_nathan_animated_003_walking_hip
+    400050: rp_nathan_animated_003_walking_index_01_l
+    400052: rp_nathan_animated_003_walking_index_01_r
+    400054: rp_nathan_animated_003_walking_index_02_l
+    400056: rp_nathan_animated_003_walking_index_02_r
+    400058: rp_nathan_animated_003_walking_index_03_l
+    400060: rp_nathan_animated_003_walking_index_03_r
+    400062: rp_nathan_animated_003_walking_index_end_l
+    400064: rp_nathan_animated_003_walking_index_end_r
+    400066: rp_nathan_animated_003_walking_jaw
+    400068: rp_nathan_animated_003_walking_jaw_end
+    400070: rp_nathan_animated_003_walking_lowerarm_l
+    400072: rp_nathan_animated_003_walking_lowerarm_r
+    400074: rp_nathan_animated_003_walking_lowerarm_twist_l
+    400076: rp_nathan_animated_003_walking_lowerarm_twist_r
+    400078: rp_nathan_animated_003_walking_lowerleg_l
+    400080: rp_nathan_animated_003_walking_lowerleg_r
+    400082: rp_nathan_animated_003_walking_lowerleg_twist_l
+    400084: rp_nathan_animated_003_walking_lowerleg_twist_r
+    400086: rp_nathan_animated_003_walking_middle_01_l
+    400088: rp_nathan_animated_003_walking_middle_01_r
+    400090: rp_nathan_animated_003_walking_middle_02_l
+    400092: rp_nathan_animated_003_walking_middle_02_r
+    400094: rp_nathan_animated_003_walking_middle_03_l
+    400096: rp_nathan_animated_003_walking_middle_03_r
+    400098: rp_nathan_animated_003_walking_middle_end_l
+    400100: rp_nathan_animated_003_walking_middle_end_r
+    400102: rp_nathan_animated_003_walking_mouth_l
+    400104: rp_nathan_animated_003_walking_mouth_r
+    400106: rp_nathan_animated_003_walking_neck
+    400108: rp_nathan_animated_003_walking_pinky_01_l
+    400110: rp_nathan_animated_003_walking_pinky_01_r
+    400112: rp_nathan_animated_003_walking_pinky_02_l
+    400114: rp_nathan_animated_003_walking_pinky_02_r
+    400116: rp_nathan_animated_003_walking_pinky_03_l
+    400118: rp_nathan_animated_003_walking_pinky_03_r
+    400120: rp_nathan_animated_003_walking_pinky_end_l
+    400122: rp_nathan_animated_003_walking_pinky_end_r
+    400124: rp_nathan_animated_003_walking_ring_01_l
+    400126: rp_nathan_animated_003_walking_ring_01_r
+    400128: rp_nathan_animated_003_walking_ring_02_l
+    400130: rp_nathan_animated_003_walking_ring_02_r
+    400132: rp_nathan_animated_003_walking_ring_03_l
+    400134: rp_nathan_animated_003_walking_ring_03_r
+    400136: rp_nathan_animated_003_walking_ring_end_l
+    400138: rp_nathan_animated_003_walking_ring_end_r
+    400140: rp_nathan_animated_003_walking_root
+    400142: rp_nathan_animated_003_walking_shoulder_l
+    400144: rp_nathan_animated_003_walking_shoulder_r
+    400146: rp_nathan_animated_003_walking_spine_01
+    400148: rp_nathan_animated_003_walking_spine_02
+    400150: rp_nathan_animated_003_walking_spine_03
+    400152: rp_nathan_animated_003_walking_thumb_01_l
+    400154: rp_nathan_animated_003_walking_thumb_01_r
+    400156: rp_nathan_animated_003_walking_thumb_02_l
+    400158: rp_nathan_animated_003_walking_thumb_02_r
+    400160: rp_nathan_animated_003_walking_thumb_03_l
+    400162: rp_nathan_animated_003_walking_thumb_03_r
+    400164: rp_nathan_animated_003_walking_thumb_end_l
+    400166: rp_nathan_animated_003_walking_thumb_end_r
+    400168: rp_nathan_animated_003_walking_upperarm_l
+    400170: rp_nathan_animated_003_walking_upperarm_r
+    400172: rp_nathan_animated_003_walking_upperarm_twist_l
+    400174: rp_nathan_animated_003_walking_upperarm_twist_r
+    400176: rp_nathan_animated_003_walking_upperleg_l
+    400178: rp_nathan_animated_003_walking_upperleg_r
+    400180: rp_nathan_animated_003_walking_upperleg_twist_l
+    400182: rp_nathan_animated_003_walking_upperleg_twist_r
+    2100000: rp_nathan_animated_003_mat
+    4300000: rp_nathan_animated_003_walking_geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: rp_nathan_animated_003_walking_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

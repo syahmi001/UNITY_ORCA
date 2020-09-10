@@ -18,7 +18,8 @@ The purpose/aim of this project is to see the performance of ORCA (or RVO2) in a
 The algorithm is tested with different types of obstacles through different type of scenario.
 
 **The scenes**
-`**Deadlock situation (scene 1)**`
+
+**Deadlock situation (scene 1)**
 
 
 
@@ -26,7 +27,7 @@ The algorithm is tested with different types of obstacles through different type
 
 
 
-`**Human obstacle (scene 2)**`
+**Human obstacle (scene 2)**
 
 
 
@@ -34,7 +35,7 @@ The algorithm is tested with different types of obstacles through different type
 
 
 
-`**Warehouse (scene 3)**`
+**Warehouse (scene 3)**
 
 
 

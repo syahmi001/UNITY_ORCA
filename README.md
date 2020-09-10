@@ -1,7 +1,7 @@
 # UNITY_ORCA
  **ORCA implementation in UNITY Engine**
  
- /test/
+ 'test'
 
 **Requirement:**
 This simulation only works in the UNITY ENGINE

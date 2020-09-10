@@ -8,7 +8,7 @@ You might need basic knowledge of using UnityEngine if you wish to change the pa
 All parameters can be changed in the GameObject.
 
 **How to launch:**
-Open the scene files in the folder ORCA_ROS/Assets/Scenes.\
+\Open the scene files in the folder ORCA_ROS/Assets/Scenes.\
 Select which scene to run.
 There are quite the few scenes I make but the main scenes are in the FYP2 folder.
 The main 3 scenes are, 4 vs 4; Human walking scene; and Warehouse scene.

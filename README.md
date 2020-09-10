@@ -1,13 +1,11 @@
 # UNITY_ORCA
  **ORCA implementation in UNITY Engine**
- 
- `test`
 
 **Requirement:**
 This simulation only works in the UNITY ENGINE
 version 2017.3.0f3
 You might need basic knowledge of using UnityEngine if you wish to change the parameters.
-All parameters can be changed in the GameObject.
+`All parameters can be changed in the GameObject.`
 
 **How to launch:**
 Open the scene files in the folder ORCA_ROS/Assets/Scenes.
